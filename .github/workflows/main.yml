@@ -1,5 +1,4 @@
 name: Generate Datas
-[![Generate Datas](https://github.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/actions/workflows/main.yml/badge.svg?event=workflow_run)](https://github.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/actions/workflows/main.yml)
 on:
   schedule: # execute every 6 hours
     - cron: "* */12 * * *"
