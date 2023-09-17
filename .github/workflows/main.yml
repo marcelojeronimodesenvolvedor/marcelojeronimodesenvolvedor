@@ -1,6 +1,6 @@
 
 name: Generate Datas
-<Runworkflow>
+<Runworkflow>verde
 on:
   schedule: # execute every 6 hours
     - cron: "* */12 * * *"
