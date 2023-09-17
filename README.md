@@ -5,6 +5,9 @@ Tenho 38 anos, sou do int de SP, trabalho atualmente como motorista de aplicativ
 , estou estudando a menos de um mês, concluí os módulos de:<div> <img src="https://github.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/blob/main/HTML-CSS-LOGO.png" width="150px"><img src="https://github.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/blob/main/Git-e-GitHub.png.webp"width="150px"></div>
 irei começar o novo módulo de: <img src="https://raw.githubusercontent.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/main/java.webp" width="400px">
 
+
+
+
 ![Snake animation](https://github.com/marcelojeronimodesenvolvedor/marcelojeronimodesenvolvedor/blob/output/github-contribution-grid-snake.svg)
 
  
